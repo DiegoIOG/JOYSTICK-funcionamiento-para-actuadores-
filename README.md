@@ -44,10 +44,12 @@ NO   | S
 
 
 ## Foto del circuito
+![CIRCUITO](https://github.com/user-attachments/assets/ed0d050f-6d37-45f5-9e80-a09836929824)
 
 
 
 ## Serial Monitor 
+<img width="566" height="681" alt="Serial_monitor" src="https://github.com/user-attachments/assets/9c4e6bf3-2761-43f3-a126-63da6f7d3d9a" />
 
 
 
